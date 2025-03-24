@@ -1,0 +1,14 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\SolidPrinciplesAssignment.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\SolidPrinciplesAssignment.deps.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\SolidPrinciplesAssignment.runtimeconfig.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\SolidPrinciplesAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\SolidPrinciplesAssignment.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\SolidPrinciplesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\SolidPrinciplesAssignment.AssemblyInfoInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\SolidPrinciplesAssignment.AssemblyInfo.cs
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\SolidPrinciplesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\SolidPrinciplesAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\refint\SolidPrinciplesAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\SolidPrinciplesAssignment.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\SolidPrinciplesAssignment.genruntimeconfig.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\ref\SolidPrinciplesAssignment.dll

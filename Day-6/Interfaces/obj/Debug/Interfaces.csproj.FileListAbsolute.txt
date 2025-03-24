@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\Interfaces\obj\Debug\Interfaces.pdb

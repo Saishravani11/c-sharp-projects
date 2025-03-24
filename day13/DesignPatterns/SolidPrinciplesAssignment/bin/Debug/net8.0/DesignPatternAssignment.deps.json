@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesignPatternAssignment/1.0.0": {
+        "runtime": {
+          "DesignPatternAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

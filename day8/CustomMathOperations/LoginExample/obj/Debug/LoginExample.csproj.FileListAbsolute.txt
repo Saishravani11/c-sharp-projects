@@ -1,0 +1,6 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\LoginExample\bin\Debug\LoginExample.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\LoginExample\bin\Debug\LoginExample.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\LoginExample\obj\Debug\LoginExample.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\LoginExample\obj\Debug\LoginExample.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\LoginExample\obj\Debug\LoginExample.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\LoginExample\obj\Debug\LoginExample.pdb

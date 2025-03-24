@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92721D6-B1FD-441C-83DC-550FA93DAF46}|DesignPatternAssignment2\\DesignPatternAssignment2.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment2\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92721D6-B1FD-441C-83DC-550FA93DAF46}|DesignPatternAssignment2\\DesignPatternAssignment2.csproj|solutionrelative:designpatternassignment2\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92721D6-B1FD-441C-83DC-550FA93DAF46}|DesignPatternAssignment2\\DesignPatternAssignment2.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment2\\singleton pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92721D6-B1FD-441C-83DC-550FA93DAF46}|DesignPatternAssignment2\\DesignPatternAssignment2.csproj|solutionrelative:designpatternassignment2\\singleton pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92721D6-B1FD-441C-83DC-550FA93DAF46}|DesignPatternAssignment2\\DesignPatternAssignment2.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment2\\observerpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92721D6-B1FD-441C-83DC-550FA93DAF46}|DesignPatternAssignment2\\DesignPatternAssignment2.csproj|solutionrelative:designpatternassignment2\\observerpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36850129-DF7B-4839-9785-2BE055F13498}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36850129-DF7B-4839-9785-2BE055F13498}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignPatternAssignment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|solutionrelative:designpatternassignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|solutionrelative:designpatternassignment\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|solutionrelative:designpatternassignment\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|solutionrelative:designpatternassignment\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|solutionrelative:designpatternassignment\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatternassignment\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4074E72-364E-4DB2-BA72-B4B8B4E5E160}|DesignPatternAssignment\\DesignPatternAssignment.csproj|solutionrelative:designpatternassignment\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F0926-9AD1-40DF-9911-5B5A5D3AF069}|observerdesignpattern\\observerdesignpattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\observerdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F0926-9AD1-40DF-9911-5B5A5D3AF069}|observerdesignpattern\\observerdesignpattern.csproj|solutionrelative:observerdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F0926-9AD1-40DF-9911-5B5A5D3AF069}|observerdesignpattern\\observerdesignpattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\observerdesignpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F0926-9AD1-40DF-9911-5B5A5D3AF069}|observerdesignpattern\\observerdesignpattern.csproj|solutionrelative:observerdesignpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36850129-DF7B-4839-9785-2BE055F13498}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\decoratorpattern\\plaintext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36850129-DF7B-4839-9785-2BE055F13498}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\plaintext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC7125-5884-4512-A156-96FBF9BCD7F4}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC7125-5884-4512-A156-96FBF9BCD7F4}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097F79F-1D3C-4B67-8BAD-80685FD2E5BC}|MobileDesignPattern\\MobileDesignPattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\mobiledesignpattern\\buildermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097F79F-1D3C-4B67-8BAD-80685FD2E5BC}|MobileDesignPattern\\MobileDesignPattern.csproj|solutionrelative:mobiledesignpattern\\buildermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097F79F-1D3C-4B67-8BAD-80685FD2E5BC}|MobileDesignPattern\\MobileDesignPattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\mobiledesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097F79F-1D3C-4B67-8BAD-80685FD2E5BC}|MobileDesignPattern\\MobileDesignPattern.csproj|solutionrelative:mobiledesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097F79F-1D3C-4B67-8BAD-80685FD2E5BC}|MobileDesignPattern\\MobileDesignPattern.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\mobiledesignpattern\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097F79F-1D3C-4B67-8BAD-80685FD2E5BC}|MobileDesignPattern\\MobileDesignPattern.csproj|solutionrelative:mobiledesignpattern\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3843D8D-A69A-4A3C-8624-EF60467BEE42}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3843D8D-A69A-4A3C-8624-EF60467BEE42}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3843D8D-A69A-4A3C-8624-EF60467BEE42}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day13\\designpatterns\\designpatterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3843D8D-A69A-4A3C-8624-EF60467BEE42}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObserverPattern.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment2\\ObserverPattern.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment2\\ObserverPattern.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment2\\ObserverPattern.cs",
+              "RelativeToolTip": "DesignPatternAssignment2\\ObserverPattern.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:54:51.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactoryPattern.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment2\\FactoryPattern.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment2\\FactoryPattern.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment2\\FactoryPattern.cs",
+              "RelativeToolTip": "DesignPatternAssignment2\\FactoryPattern.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:53:07.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleTon pattern.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment2\\SingleTon pattern.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment2\\SingleTon pattern.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment2\\SingleTon pattern.cs",
+              "RelativeToolTip": "DesignPatternAssignment2\\SingleTon pattern.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAvwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:48:19.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\Program.cs",
+              "RelativeToolTip": "DesignPatternAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:41:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\Class1.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment\\Class1.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\Class1.cs",
+              "RelativeToolTip": "DesignPatternAssignment\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:24:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DIP.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\DIP.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment\\DIP.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\DIP.cs",
+              "RelativeToolTip": "DesignPatternAssignment\\DIP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:23:29.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISP.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\ISP.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment\\ISP.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\ISP.cs",
+              "RelativeToolTip": "DesignPatternAssignment\\ISP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:20:57.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LSP.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\LSP.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment\\LSP.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\LSP.cs",
+              "RelativeToolTip": "DesignPatternAssignment\\LSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:19:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\OCP.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment\\OCP.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\OCP.cs",
+              "RelativeToolTip": "DesignPatternAssignment\\OCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:13:54.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\SRP.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignment\\SRP.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatternAssignment\\SRP.cs",
+              "RelativeToolTip": "DesignPatternAssignment\\SRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:10:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\observerdesignpattern\\Program.cs",
+              "RelativeDocumentMoniker": "observerdesignpattern\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\observerdesignpattern\\Program.cs",
+              "RelativeToolTip": "observerdesignpattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:33:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlainText.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DecoratorPattern\\PlainText.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\PlainText.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DecoratorPattern\\PlainText.cs",
+              "RelativeToolTip": "DecoratorPattern\\PlainText.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:29:11.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DecoratorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DecoratorPattern\\Program.cs",
+              "RelativeToolTip": "DecoratorPattern\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:26:09.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\AdapterPattern\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\AdapterPattern\\Program.cs",
+              "RelativeToolTip": "AdapterPattern\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:23:11.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuilderMain.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\MobileDesignPattern\\BuilderMain.cs",
+              "RelativeDocumentMoniker": "MobileDesignPattern\\BuilderMain.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\MobileDesignPattern\\BuilderMain.cs",
+              "RelativeToolTip": "MobileDesignPattern\\BuilderMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:24:31.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\MobileDesignPattern\\Builder.cs",
+              "RelativeDocumentMoniker": "MobileDesignPattern\\Builder.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\MobileDesignPattern\\Builder.cs",
+              "RelativeToolTip": "MobileDesignPattern\\Builder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:38:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\MobileDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "MobileDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\MobileDesignPattern\\Program.cs",
+              "RelativeToolTip": "MobileDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:29:48.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatterns\\Singleton.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Singleton.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatterns\\Singleton.cs",
+              "RelativeToolTip": "DesignPatterns\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:24:10.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:13:44.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\observerdesignpattern\\IObserver.cs",
+              "RelativeDocumentMoniker": "observerdesignpattern\\IObserver.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day13\\DesignPatterns\\observerdesignpattern\\IObserver.cs",
+              "RelativeToolTip": "observerdesignpattern\\IObserver.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:33:55.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

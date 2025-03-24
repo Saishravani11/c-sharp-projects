@@ -1,0 +1,7 @@
+2025-02-06 21:12:55.6561|INFO|ConsoleApp8.AuthenticationService|New user registered: shravs
+2025-02-06 21:13:36.0901|INFO|ConsoleApp8.AuthenticationService|Login attempt has made for user: shravs
+2025-02-06 21:13:36.0901|INFO|ConsoleApp8.AuthenticationService|Login successful for username: shravs
+2025-02-06 21:30:06.2534|INFO|ConsoleApp8.AuthenticationService|Login attempt has made : niti
+2025-02-06 21:30:06.3010|INFO|ConsoleApp8.AuthenticationService|Login successful for username: niti
+2025-02-06 21:30:06.3010|INFO|ConsoleApp8.AuthenticationService|Login attempt has made : nitinn
+2025-02-06 21:30:06.3010|WARN|ConsoleApp8.AuthenticationService|Login failed : Incorrect password for the user : nitinn

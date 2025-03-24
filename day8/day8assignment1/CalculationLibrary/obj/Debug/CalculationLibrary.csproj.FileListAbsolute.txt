@@ -1,0 +1,6 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment1\CalculationLibrary\bin\Debug\CalculationLibrary.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment1\CalculationLibrary\bin\Debug\CalculationLibrary.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment1\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment1\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment1\CalculationLibrary\obj\Debug\CalculationLibrary.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment1\CalculationLibrary\obj\Debug\CalculationLibrary.pdb

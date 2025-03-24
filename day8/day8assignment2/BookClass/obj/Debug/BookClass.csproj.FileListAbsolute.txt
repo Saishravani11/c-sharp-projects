@@ -1,0 +1,6 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment2\BookClass\bin\Debug\BookClass.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment2\BookClass\bin\Debug\BookClass.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment2\BookClass\obj\Debug\BookClass.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment2\BookClass\obj\Debug\BookClass.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment2\BookClass\obj\Debug\BookClass.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\day8assignment2\BookClass\obj\Debug\BookClass.pdb

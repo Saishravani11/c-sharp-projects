@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\Encapsulation Election\bin\Debug\Encapsulation Election.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\Encapsulation Election\bin\Debug\Encapsulation Election.exe
+C:\Users\saish\OneDrive\Documents\training\test1\Encapsulation Election\bin\Debug\Encapsulation Election.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\Encapsulation Election\obj\Debug\Encapsulation Election.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\Encapsulation Election\obj\Debug\Encapsulation Election.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\Encapsulation Election\obj\Debug\Encapsulation Election.exe
+C:\Users\saish\OneDrive\Documents\training\test1\Encapsulation Election\obj\Debug\Encapsulation Election.pdb

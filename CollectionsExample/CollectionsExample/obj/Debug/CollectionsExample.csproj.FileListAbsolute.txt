@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day5\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\day5\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.pdb

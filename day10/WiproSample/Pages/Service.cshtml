@@ -1,0 +1,30 @@
+﻿@page
+@model WiproSample.Pages.ServiceModel
+@{
+}
+<table class="table">
+
+	<thead>
+		<tr>
+			<th>Servicename</th>
+			<th>Description</th>
+			<th>pricing</th>
+			
+	</thead>
+	<tbody>
+		@foreach (var s in Model.Services)
+		{
+			<tr>
+				<td>@s.Service</td>
+
+				<td>@s.Description</td>
+				<td>@s.Pricing</td>
+				
+
+			</tr>
+
+
+		}
+
+	</tbody>
+</table>

@@ -1,0 +1,14 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\DesignPatternAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\DesignPatternAssignment2.AssemblyInfoInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\DesignPatternAssignment2.AssemblyInfo.cs
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\DesignPatternAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\bin\Debug\net8.0\DesignPatternAssignment2.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\bin\Debug\net8.0\DesignPatternAssignment2.deps.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\bin\Debug\net8.0\DesignPatternAssignment2.runtimeconfig.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\bin\Debug\net8.0\DesignPatternAssignment2.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\bin\Debug\net8.0\DesignPatternAssignment2.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\DesignPatternAssignment2.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\refint\DesignPatternAssignment2.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\DesignPatternAssignment2.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\DesignPatternAssignment2.genruntimeconfig.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment2\obj\Debug\net8.0\ref\DesignPatternAssignment2.dll

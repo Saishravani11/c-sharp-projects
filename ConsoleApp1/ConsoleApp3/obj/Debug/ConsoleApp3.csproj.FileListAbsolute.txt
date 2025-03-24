@@ -1,0 +1,2 @@
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\MobileDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\MobileDesignPattern.AssemblyInfoInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\MobileDesignPattern.AssemblyInfo.cs
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\MobileDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\bin\Debug\net8.0\MobileDesignPattern.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\bin\Debug\net8.0\MobileDesignPattern.deps.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\bin\Debug\net8.0\MobileDesignPattern.runtimeconfig.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\bin\Debug\net8.0\MobileDesignPattern.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\bin\Debug\net8.0\MobileDesignPattern.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\MobileDesignPattern.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\refint\MobileDesignPattern.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\MobileDesignPattern.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\MobileDesignPattern.genruntimeconfig.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\MobileDesignPattern\obj\Debug\net8.0\ref\MobileDesignPattern.dll

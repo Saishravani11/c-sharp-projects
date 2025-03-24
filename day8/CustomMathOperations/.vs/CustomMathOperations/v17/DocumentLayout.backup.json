@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CEE4DC-2508-4C06-B4BE-01AE1D181074}|MSTesting1\\MSTesting1.csproj|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\mstesting1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CEE4DC-2508-4C06-B4BE-01AE1D181074}|MSTesting1\\MSTesting1.csproj|solutionrelative:mstesting1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FD4DBB-BB9D-4CD8-89DE-9124A146CECA}|LoginExample\\LoginExample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day8\\custommathoperations\\loginexample\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FD4DBB-BB9D-4CD8-89DE-9124A146CECA}|LoginExample\\LoginExample.csproj|solutionrelative:loginexample\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C11963-0DE9-4F6B-8CCC-8B0A26C97769}|MSTesting\\MSTesting.csproj|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\mstesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C11963-0DE9-4F6B-8CCC-8B0A26C97769}|MSTesting\\MSTesting.csproj|solutionrelative:mstesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFED1E3-C43A-4043-B172-435DBB7B9EE2}|CustomMathOperations\\CustomMathOperations.csproj|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\custommathoperations\\basicmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFED1E3-C43A-4043-B172-435DBB7B9EE2}|CustomMathOperations\\CustomMathOperations.csproj|solutionrelative:custommathoperations\\basicmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF037DD-0C5C-45CB-BEE6-E35F17ABB00B}|NunitTesting\\NunitTesting.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day8\\custommathoperations\\nunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF037DD-0C5C-45CB-BEE6-E35F17ABB00B}|NunitTesting\\NunitTesting.csproj|solutionrelative:nunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginClass.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\LoginExample\\LoginClass.cs",
+              "RelativeDocumentMoniker": "LoginExample\\LoginClass.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\LoginExample\\LoginClass.cs",
+              "RelativeToolTip": "LoginExample\\LoginClass.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:49:53.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\MSTesting1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MSTesting1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\MSTesting1\\UnitTest1.cs",
+              "RelativeToolTip": "MSTesting1\\UnitTest1.cs",
+              "ViewState": "AgIAACcAAACA/XzfoHwzwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:56:38.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\NunitTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NunitTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\NunitTesting\\UnitTest1.cs",
+              "RelativeToolTip": "NunitTesting\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:36:57.884Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\MSTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MSTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\MSTesting\\UnitTest1.cs",
+              "RelativeToolTip": "MSTesting\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:33:29.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicMath.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\CustomMathOperations\\BasicMath.cs",
+              "RelativeDocumentMoniker": "CustomMathOperations\\BasicMath.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\CustomMathOperations\\CustomMathOperations\\BasicMath.cs",
+              "RelativeToolTip": "CustomMathOperations\\BasicMath.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:30:30.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

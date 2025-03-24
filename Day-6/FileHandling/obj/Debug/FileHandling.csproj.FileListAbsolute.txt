@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day-6\FileHandling\obj\Debug\FileHandling.pdb

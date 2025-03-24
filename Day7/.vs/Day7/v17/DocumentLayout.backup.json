@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7399B706-3D18-477F-8B08-C9CCAE2D29A5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day5\\day7\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7399B706-3D18-477F-8B08-C9CCAE2D29A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C47CC-FA1E-4B30-9848-0B23283087D0}|IndexerExample\\IndexerExample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day5\\day7\\indexerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89C47CC-FA1E-4B30-9848-0B23283087D0}|IndexerExample\\IndexerExample.csproj|solutionrelative:indexerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C47CC-FA1E-4B30-9848-0B23283087D0}|IndexerExample\\IndexerExample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day5\\day7\\indexerexample\\indexeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89C47CC-FA1E-4B30-9848-0B23283087D0}|IndexerExample\\IndexerExample.csproj|solutionrelative:indexerexample\\indexeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8C770-3C2D-4E38-ABA6-0659576EC1C2}|ExtensionMEthodexample2\\ExtensionMEthodexample2.csproj|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\extensionmethodexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8C770-3C2D-4E38-ABA6-0659576EC1C2}|ExtensionMEthodexample2\\ExtensionMEthodexample2.csproj|solutionrelative:extensionmethodexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8C770-3C2D-4E38-ABA6-0659576EC1C2}|ExtensionMEthodexample2\\ExtensionMEthodexample2.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day5\\day7\\extensionmethodexample2\\wordcounterex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8C770-3C2D-4E38-ABA6-0659576EC1C2}|ExtensionMEthodexample2\\ExtensionMEthodexample2.csproj|solutionrelative:extensionmethodexample2\\wordcounterex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B0C1DC-5993-41CA-9D39-94F539CE0F20}|Extensionmethods\\Extensionmethods.csproj|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B0C1DC-5993-41CA-9D39-94F539CE0F20}|Extensionmethods\\Extensionmethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:42:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Indexeritem.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\IndexerExample\\Indexeritem.cs",
+              "RelativeDocumentMoniker": "IndexerExample\\Indexeritem.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\IndexerExample\\Indexeritem.cs",
+              "RelativeToolTip": "IndexerExample\\Indexeritem.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAD4v1UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:21:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\IndexerExample\\Program.cs",
+              "RelativeDocumentMoniker": "IndexerExample\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\IndexerExample\\Program.cs",
+              "RelativeToolTip": "IndexerExample\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA/wBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:20:10.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordCounterex.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\ExtensionMEthodexample2\\WordCounterex.cs",
+              "RelativeDocumentMoniker": "ExtensionMEthodexample2\\WordCounterex.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\ExtensionMEthodexample2\\WordCounterex.cs",
+              "RelativeToolTip": "ExtensionMEthodexample2\\WordCounterex.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:57:36.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\ExtensionMEthodexample2\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMEthodexample2\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\ExtensionMEthodexample2\\Program.cs",
+              "RelativeToolTip": "ExtensionMEthodexample2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:26:30.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\Extensionmethods\\Program.cs",
+              "RelativeDocumentMoniker": "Extensionmethods\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day5\\Day7\\Extensionmethods\\Program.cs",
+              "RelativeToolTip": "Extensionmethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:55:44.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\contact_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\contact_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\model\\wiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:model\\wiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\service.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\service.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\about_us.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\about_us.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\contact_us.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\contact_us.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day10\\wiprosample\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F14571-225A-4572-97EC-1CF1EF17CA80}|WiproSample.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact_us.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Contact_us.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Contact_us.cshtml.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Contact_us.cshtml.cs",
+              "RelativeToolTip": "Pages\\Contact_us.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:27:32.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WiproData.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Model\\WiproData.cs",
+              "RelativeDocumentMoniker": "Model\\WiproData.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Model\\WiproData.cs",
+              "RelativeToolTip": "Model\\WiproData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:29:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wipro.cshtml",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Wipro.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Wipro.cshtml",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Wipro.cshtml",
+              "RelativeToolTip": "Pages\\Wipro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:26:29.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact_us.cshtml",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Contact_us.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Contact_us.cshtml",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Contact_us.cshtml",
+              "RelativeToolTip": "Pages\\Contact_us.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:24:59.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About_us.cshtml",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\About_us.cshtml",
+              "RelativeDocumentMoniker": "Pages\\About_us.cshtml",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\About_us.cshtml",
+              "RelativeToolTip": "Pages\\About_us.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:21:52.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cshtml",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Service.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Service.cshtml",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Service.cshtml",
+              "RelativeToolTip": "Pages\\Service.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:20:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T05:17:49.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:11:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About_us.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\About_us.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\About_us.cshtml.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\About_us.cshtml.cs",
+              "RelativeToolTip": "Pages\\About_us.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:39:23.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Service.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Service.cshtml.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Service.cshtml.cs",
+              "RelativeToolTip": "Pages\\Service.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:42:39.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:08:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day10\\WiproSample\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T05:08:23.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\saish\OneDrive\Documents\training\test1\Hellowordmain.cs\obj\Debug\Hellowordmain.cs.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\Hellowordmain.cs\obj\Debug\Hellowordmain.cs.csproj.CoreCompileInputs.cache

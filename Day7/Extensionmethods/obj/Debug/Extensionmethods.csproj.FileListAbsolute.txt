@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\Extensionmethods\bin\Debug\Extensionmethods.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\Extensionmethods\bin\Debug\Extensionmethods.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\Extensionmethods\bin\Debug\Extensionmethods.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\Extensionmethods\obj\Debug\Extensionmethods.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\Extensionmethods\obj\Debug\Extensionmethods.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\Extensionmethods\obj\Debug\Extensionmethods.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\Extensionmethods\obj\Debug\Extensionmethods.pdb

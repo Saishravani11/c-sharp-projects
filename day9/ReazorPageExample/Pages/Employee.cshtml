@@ -1,0 +1,32 @@
+﻿@page
+@model RazorExample.Pages.EmployeeModel
+@{
+}
+<h1> Employee Data : </h1>
+
+<table class="table">
+
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Gender</th>
+			<th>Address</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var emp in Model.Employees)
+		{
+			<tr>
+				<td>@emp.Id</td>
+				<td>@emp.Name</td>
+				<td>@emp.Gender</td>
+				<td>@emp.Address</td>
+
+			</tr>
+
+
+		}
+
+	</tbody>
+</table>

@@ -1,0 +1,14 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\bin\Debug\net8.0\observerdesignpattern.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\bin\Debug\net8.0\observerdesignpattern.deps.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\bin\Debug\net8.0\observerdesignpattern.runtimeconfig.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\bin\Debug\net8.0\observerdesignpattern.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\bin\Debug\net8.0\observerdesignpattern.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\observerdesignpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\observerdesignpattern.AssemblyInfoInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\observerdesignpattern.AssemblyInfo.cs
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\observerdesignpattern.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\observerdesignpattern.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\refint\observerdesignpattern.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\observerdesignpattern.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\observerdesignpattern.genruntimeconfig.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\observerdesignpattern\obj\Debug\net8.0\ref\observerdesignpattern.dll

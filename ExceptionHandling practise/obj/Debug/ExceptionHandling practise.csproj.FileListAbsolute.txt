@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\ExceptionHandling practise\bin\Debug\ExceptionHandling practise.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\ExceptionHandling practise\bin\Debug\ExceptionHandling practise.exe
+C:\Users\saish\OneDrive\Documents\training\test1\ExceptionHandling practise\bin\Debug\ExceptionHandling practise.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\ExceptionHandling practise\obj\Debug\ExceptionHandling practise.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\ExceptionHandling practise\obj\Debug\ExceptionHandling practise.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\ExceptionHandling practise\obj\Debug\ExceptionHandling practise.exe
+C:\Users\saish\OneDrive\Documents\training\test1\ExceptionHandling practise\obj\Debug\ExceptionHandling practise.pdb

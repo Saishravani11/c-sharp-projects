@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\saish\OneDrive\Documents\training\test1\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

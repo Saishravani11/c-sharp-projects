@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\EvenOdd\bin\Debug\EvenOdd.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\EvenOdd\bin\Debug\EvenOdd.exe
+C:\Users\saish\OneDrive\Documents\training\test1\EvenOdd\bin\Debug\EvenOdd.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\EvenOdd\obj\Debug\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\EvenOdd\obj\Debug\EvenOdd.exe
+C:\Users\saish\OneDrive\Documents\training\test1\EvenOdd\obj\Debug\EvenOdd.pdb

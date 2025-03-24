@@ -1,0 +1,6 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\CustomMathOperations\bin\Debug\CustomMathOperations.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\CustomMathOperations\bin\Debug\CustomMathOperations.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.pdb

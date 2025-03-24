@@ -1,0 +1,14 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\DesignPatternAssignment.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\DesignPatternAssignment.deps.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\DesignPatternAssignment.runtimeconfig.json
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\DesignPatternAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\bin\Debug\net8.0\DesignPatternAssignment.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\DesignPatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\DesignPatternAssignment.AssemblyInfoInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\DesignPatternAssignment.AssemblyInfo.cs
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\DesignPatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\DesignPatternAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\refint\DesignPatternAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\DesignPatternAssignment.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\DesignPatternAssignment.genruntimeconfig.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day13\DesignPatterns\DesignPatternAssignment\obj\Debug\net8.0\ref\DesignPatternAssignment.dll

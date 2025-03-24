@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\day8assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C79F6A-E195-4FE4-8A00-BFAB8304C368}|TestProject1\\TestProject1.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day8\\day8assignment1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C79F6A-E195-4FE4-8A00-BFAB8304C368}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8B4AE3-80CF-45E4-BB08-83F99213D9AE}|CalculationLibrary\\CalculationLibrary.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\day8\\day8assignment1\\calculationlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8B4AE3-80CF-45E4-BB08-83F99213D9AE}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\day8assignment1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\day8assignment1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:06:31.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\day8assignment1\\CalculationLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\Calculator.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\day8\\day8assignment1\\CalculationLibrary\\Calculator.cs",
+              "RelativeToolTip": "CalculationLibrary\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:51:40.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

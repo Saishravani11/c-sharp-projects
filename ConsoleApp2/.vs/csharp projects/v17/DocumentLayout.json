@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB08EC9-2302-445C-8B21-ECDE53BE3CFF}|ConsoleApp2.csproj|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB08EC9-2302-445C-8B21-ECDE53BE3CFF}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EB7F54-D637-49F7-B3D0-0F0E25BB6AD6}|..\\Abstraction.cs\\Abstraction.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\abstraction.cs\\abstractmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EB7F54-D637-49F7-B3D0-0F0E25BB6AD6}|..\\Abstraction.cs\\Abstraction.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\abstraction.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE9958-A6B4-4259-BA44-664CF64A67E7}|..\\ExceptionHandling practise\\ExceptionHandling practise.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\exceptionhandling practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F0F983-A399-48BC-A399-6224C9D6B192}|..\\Inheritance\\Inheritance.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB10586-DB07-47FD-A5C3-A5297BABA79E}|..\\Polymorphism\\Polymorphism.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EB7F54-D637-49F7-B3D0-0F0E25BB6AD6}|..\\Abstraction.cs\\Abstraction.cs.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\abstraction.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98546DD7-D4FD-4BEB-ABAB-004AEA5ADEC6}|..\\ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A532A73-BCB0-4895-80C9-158B17C83049}|..\\Encapsulation Election\\Encapsulation Election.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\encapsulation election\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2628E3A5-82A6-4698-9572-18F5B7D31975}|..\\ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\saish\\onedrive\\documents\\training\\test1\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Encapsulation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Abstraction.cs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Abstraction.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Abstraction.cs\\Program.cs",
+              "RelativeToolTip": "..\\Abstraction.cs\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAzwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:54:34.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ExceptionHandling practise\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExceptionHandling practise\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ExceptionHandling practise\\Program.cs",
+              "RelativeToolTip": "..\\ExceptionHandling practise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:10:32.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "..\\Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T03:57:57.109Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "..\\Polymorphism\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAD4v4sAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:32:28.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Inheritance\\Program.cs",
+              "RelativeToolTip": "..\\Inheritance\\Program.cs",
+              "ViewState": "AgIAACcAAADAbTayhP8qwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:11:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:15:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractMain.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Abstraction.cs\\AbstractMain.cs",
+              "RelativeDocumentMoniker": "..\\Abstraction.cs\\AbstractMain.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Abstraction.cs\\AbstractMain.cs",
+              "RelativeToolTip": "..\\Abstraction.cs\\AbstractMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:22:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Abstraction.cs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Abstraction.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Abstraction.cs\\Program.cs",
+              "RelativeToolTip": "..\\Abstraction.cs\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAtwE0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:00:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Encapsulation Election\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Encapsulation Election\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\Encapsulation Election\\Program.cs",
+              "RelativeToolTip": "..\\Encapsulation Election\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:28:13.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp6\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:25:40.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\saish\\OneDrive\\Documents\\training\\test1\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp5\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4v00AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:33:38.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\ExtensionMEthodexample2\obj\Debug\ExtensionMEthodexample2.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\ExtensionMEthodexample2\obj\Debug\ExtensionMEthodexample2.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\ExtensionMEthodexample2\bin\Debug\ExtensionMEthodexample2.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\ExtensionMEthodexample2\bin\Debug\ExtensionMEthodexample2.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\ExtensionMEthodexample2\bin\Debug\ExtensionMEthodexample2.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\ExtensionMEthodexample2\obj\Debug\ExtensionMEthodexample2.exe
+C:\Users\saish\OneDrive\Documents\training\test1\day5\Day7\ExtensionMEthodexample2\obj\Debug\ExtensionMEthodexample2.pdb

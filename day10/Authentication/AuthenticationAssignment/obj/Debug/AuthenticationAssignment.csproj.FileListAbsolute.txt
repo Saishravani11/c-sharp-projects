@@ -1,0 +1,6 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day10\Authentication\AuthenticationAssignment\bin\Debug\AuthenticationAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day10\Authentication\AuthenticationAssignment\bin\Debug\AuthenticationAssignment.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day10\Authentication\AuthenticationAssignment\obj\Debug\AuthenticationAssignment.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day10\Authentication\AuthenticationAssignment\obj\Debug\AuthenticationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day10\Authentication\AuthenticationAssignment\obj\Debug\AuthenticationAssignment.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day10\Authentication\AuthenticationAssignment\obj\Debug\AuthenticationAssignment.pdb

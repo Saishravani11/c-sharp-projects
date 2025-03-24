@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fetch Employee Data</title>
+</head>
+<body>
+  <h1>Employee Data</h1>
+  <button id="fetchDataBtn">Fetch Employees Data</button>
+  
+  <div id="employeeList"></div> <!-- To display the employee list -->
+
+  <script>
+    // Event listener for button click
+    document.getElementById("fetchDataBtn").addEventListener("click", function() {
+      // Define the URL of the new API endpoint (JSONPlaceholder)
+      const url = "https://jsonplaceholder.typicode.com/users";
+
+      // Use the Fetch API to get the data
+      fetch(url)
+        .then(response => {
+          // Check if the response is successful (status code 200)
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json(); // Parse the JSON from the response
+        })
+        .then(data => {
+          // Display the employee data in the browser
+          const employeeList = document.getElementById("employeeList");
+          employeeList.innerHTML = ""; // Clear any previous content
+
+          // Check if the 'data' key contains employee details
+          if (data && Array.isArray(data)) {
+            data.forEach(employee => {
+              const employeeDiv = document.createElement("div");
+              employeeDiv.innerHTML = `
+                <p><strong>Name:</strong> ${employee.name}</p>
+                <p><strong>Email:</strong> ${employee.email}</p>
+                <p><strong>Phone:</strong> ${employee.phone}</p>
+                <p><strong>Company:</strong> ${employee.company.name}</p>
+                <hr>
+              `;
+              employeeList.appendChild(employeeDiv);
+            });
+          } else {
+            employeeList.innerHTML = "<p>No employee data found.</p>";
+          }
+        })
+        .catch(error => {
+          // Handle any errors that occur during the fetch operation
+          console.error('There was a problem with the fetch operation:', error);
+        });
+    });
+  </script>
+</body>
+</html>
+
+

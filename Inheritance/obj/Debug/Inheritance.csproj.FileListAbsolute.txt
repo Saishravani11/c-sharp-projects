@@ -1,0 +1,7 @@
+C:\Users\saish\OneDrive\Documents\training\test1\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\saish\OneDrive\Documents\training\test1\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\saish\OneDrive\Documents\training\test1\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\saish\OneDrive\Documents\training\test1\Inheritance\obj\Debug\Inheritance.pdb

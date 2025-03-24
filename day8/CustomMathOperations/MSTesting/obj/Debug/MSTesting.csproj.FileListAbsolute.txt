@@ -1,0 +1,17 @@
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\MSTesting.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\MSTesting.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\CustomMathOperations.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\CustomMathOperations.pdb
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\obj\Debug\MSTesting.csproj.AssemblyReference.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\obj\Debug\MSTesting.csproj.CoreCompileInputs.cache
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\obj\Debug\MSTesting.csproj.Up2Date
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\obj\Debug\MSTesting.dll
+C:\Users\saish\OneDrive\Documents\training\test1\day8\CustomMathOperations\MSTesting\obj\Debug\MSTesting.pdb
